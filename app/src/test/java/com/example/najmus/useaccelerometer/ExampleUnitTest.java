@@ -1,4 +1,7 @@
 package com.example.najmus.useaccelerometer;
+/*====================================
+    Author : NAJMUS SEEMAB
+======================================*/
 
 import org.junit.Test;
 
